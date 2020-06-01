@@ -42,10 +42,10 @@ variable | `t` | `p`
 
 The expected figure outputs should look as follows: 
 
-1. When plotting the histogram of `partY`, the figure should look like: 
+1. When plotting the statistical relationship between the most significant correlation for `partY`, the figure should look like:   
 
-2. When plotting the histogram of `partY2`, the figure should look like:
+![MRI_Count-partY](MRI_Count-partY.png)
 
-3. When plotting the statistical relationship between the most significant correlation for `partY`, the figure should look like:   
+2. When plotting the statistical relationship between the most significant correlation for `partY2`, the figure should look like: 
 
-4. When plotting the statistical relationship between the most significant correlation for `partY2`, the figure should look like: 
+![MRI_Count-partY](MRI_Count-partY2.png)
