@@ -40,6 +40,8 @@ variable | `t` | `p`
 `Height` | -18.51 | 1.31e-20
 `MRI_Count` | 79.53 | 9.10e-45 
 
+It is clear from these two tables that each correlation with `partY` or `partY2`  is significant because all of the `p`-values with these two random variables are < 0.05. The negative `t` values mean that the sample mean was less than the hypothesized mean, while the positive `t` value for `MRI_Count` and `partY` or `partY2` means that the sample mean was greater than the hypothesized mean. Plots of the most significant correlation for both `partY` and `partY2` are below: 
+
 The expected figure outputs should look as follows: 
 
 1. When plotting the statistical relationship between the most significant correlation for `partY`, the figure should look like:   
