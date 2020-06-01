@@ -46,6 +46,7 @@ The expected figure outputs should look as follows:
 
 ![MRI_Count-partY](MRI_Count-partY.png)
 
+with 
 2. When plotting the statistical relationship between the most significant correlation for `partY2`, the figure should look like: 
 
 ![MRI_Count-partY](MRI_Count-partY2.png)
